@@ -1,0 +1,6 @@
+.swiper-pagination-bullet-active {
+    background: #ff0000; /* Custom bullet color for active slide */
+  }
+  .swiper-button-next, .swiper-button-prev {
+    color: #ff0000; /* Custom navigation arrow color */
+  }
